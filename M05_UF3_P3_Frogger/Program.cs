@@ -64,6 +64,7 @@ namespace M05_UF3_P3_Frogger
                 //controlara los fotogramas del juego
                 TimeManager.NextFrame();
             }
+
             //limpiar consola , si gane que me muestre el mensaje ganador, y si perdi que me muestre el mansaje indicando que he perdido la partida
             Console.Clear();
             Console.WriteLine(gameState == Utils.GAME_STATE.WIN ? "Has ganado, Felicidades !!" : "has perdido, intenta la proxima...");
