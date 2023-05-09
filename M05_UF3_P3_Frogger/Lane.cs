@@ -23,6 +23,7 @@ namespace M05_UF3_P3_Frogger
             this.background = background;
             this.damageElements = damageElements;
             this.damageBackground = damageBackground;
+        
 
             for (int i = 0; i < Utils.MAP_WIDTH; i++)
             {
