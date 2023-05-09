@@ -11,7 +11,7 @@ namespace M05_UF3_P3_Frogger
             //primer booleano, carril hacia dponde se mueve
             //seundo booleano el objeto afecta al jugador
             //tercer booleano si el carril puede matar al jugador
-
+            //
             //preparar los datos, aqui indicaremos el valor de cada linea, las colisiones contra los carros que pasa
             //si podemos estar en los carriles
             //que caracteres va ver en cada linea
