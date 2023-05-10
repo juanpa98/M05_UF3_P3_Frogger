@@ -44,7 +44,7 @@ namespace M05_UF3_P3_Frogger
                 Console.Clear();
                 foreach (Lane lane in lanes)
                 {
-                
+                    //dibujar lineas
                     lane.Draw();
                 }
                
